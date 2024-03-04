@@ -1,1 +1,1 @@
-6.tcp.eu.ngrok.io:17507
+7.tcp.eu.ngrok.io:10604
